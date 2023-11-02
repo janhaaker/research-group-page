@@ -27,8 +27,8 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD Neuropharmacology ("Dopamingergic Augmentation of Fear exitinction in humans")
+      institution: Department of Chemistry & Systems Neuroscience, University of Hamburg
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
