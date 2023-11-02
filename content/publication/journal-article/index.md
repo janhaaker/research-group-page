@@ -1,16 +1,18 @@
 ---
-title: 'An example journal article'
+title: 'Endogenous opioids regulate social threat learning in humans'
 authors:
   - admin
-  - Robert Ford
+  - Jonathan Yi
+  - Predrag Petrovic
+  - Andreas Olsson 
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+ # - 'Equal contribution'
+ # - 'Equal contribution'
 date: '2015-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2017-05-25T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +21,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Nature Communications, 1*(1)'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Many fearful expectations are shaped by observation of aversive outcomes to others. Yet, the neurochemistry regulating social learning is unknown. Previous research has shown that during direct (Pavlovian) threat learning, information about personally experienced outcomes is regulated by the release of endogenous opioids, and activity within the amygdala and periaqueductal gray (PAG). Here we report that blockade of this opioidergic circuit enhances social threat learning through observation in humans involving activity within the amygdala, midline thalamus and the PAG. In particular, anticipatory responses to learned threat cues (CS) were associated with temporal dynamics in the PAG, coding the observed aversive outcomes to other (observational US). In addition, pharmacological challenge of the opioid receptor function is classified by distinct brain activity patterns during the expression of conditioned threats. Our results reveal an opioidergic circuit that codes the observed aversive outcomes to others into threat responses and long-term memory in the observer.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  Pharmacological blockade of an opioidergic circuit enhances social observational threat learning in humans involving activity within the amygdala, midline thalamus and the PAG.
 
 tags:
   - Source Themes
@@ -34,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://arxiv.org/pdf/1512.04133v1](https://www.nature.com/articles/ncomms15495)
 url_code: ''
 url_dataset: ''
 url_poster: ''
