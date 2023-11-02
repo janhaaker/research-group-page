@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jan Haaker
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Jan
+last_name: Haaker
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Group Leader Neuropsychopharmacology Lab
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Department of Systems Neuroscience University Medical Center Hamburg-Eppendorf
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
